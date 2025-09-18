@@ -13,7 +13,7 @@
 
 ### - I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
+<img hight="200" width="500" alt="JPG" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -50,6 +50,19 @@
 </br>
 </br>
 
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:dsianlly718@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Din1225/Din1225/blob/main/assets/icons/gmail.png" />
+</a>
 
 
 
