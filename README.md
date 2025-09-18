@@ -13,7 +13,7 @@
 
 ### - I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast.
 
-<img hight="300" width="400" alt="JPG" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
+<img hight="250" width="400" alt="JPG" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
 
 ### - Learning :
 - ✨ Problem-Solving and Logical Thinking
