@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi, I'm Din! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Din1225/Din1225/blob/main/assets/208593.gif">
