@@ -16,14 +16,15 @@
 <img hight="200" width="300" alt="JPG" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ 
+- ✨ Problem-Solving and Logical Thinking
+- ✨ Data Science & Machine Learning
+- ✨ Natural Language Processing (NLP)
+- ✨ Large Language Models (LLMs)
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Reading and Exploring New Ideas
 - ✨ Watching Anime
-- ✨ 
-- ✨ 
+- ✨ Listening to Music
 
 </br>
 </br>
