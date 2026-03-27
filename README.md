@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast.
+### - I'm 23 years old Machine Learning & Artificial Intelligence Enthusiast.
 
 <img hight="215" width="350" alt="JPG" align="right" src="https://github.com/Din1225/Din1225/blob/main/assets/222331.jpg">
 
